@@ -47,7 +47,7 @@ The Power BI report contains 6 pages:
 6. **Paid User & Revenue Analysis**
 
 ### 🖼️ Home Page  
-![Dashboard Home](.Resource/Home Page.jpg)
+![Dashboard Home](.Resource/Home_Page.jpg)
 
 ---
 
