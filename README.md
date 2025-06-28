@@ -62,13 +62,13 @@ The Power BI report contains 6 pages:
 
 ## 🙌 Key Insights
 
-*LioCinema* has a larger user base, but Jotstar earns 2.5× more revenue due to stronger paid plan adoption.
-*Jotstar* users have higher engagement (avg. 351 hrs watch time vs. 60 hrs on LioCinema).
-*Content:* Jotstar leads in premium and English content; LioCinema excels in regional genres.
-*Activity:* Jotstar has 85% active users; LioCinema faces high inactivity, especially among free users.
-*Upgrade Trends:* Jotstar sees VIP → Premium upgrades; LioCinema shows more Free → Basic shifts.
-*Revenue:* Jotstar Premium is the top contributor; LioCinema revenue is Basic-driven.
-*Devices:* TV users watch the most; Jotstar aligns well with long-form content consumption.
+**LioCinema** has a larger user base, but Jotstar earns 2.5× more revenue due to stronger paid plan adoption.
+**Jotstar** users have higher engagement (avg. 351 hrs watch time vs. 60 hrs on LioCinema).
+**Content:** Jotstar leads in premium and English content; LioCinema excels in regional genres.
+**Activity:** Jotstar has 85% active users; LioCinema faces high inactivity, especially among free users.
+**Upgrade* Trends:* Jotstar sees VIP → Premium upgrades; LioCinema shows more Free → Basic shifts.
+**Revenue:** Jotstar Premium is the top contributor; LioCinema revenue is Basic-driven.
+**Devices:** TV users watch the most; Jotstar aligns well with long-form content consumption.
 
 ---
 
