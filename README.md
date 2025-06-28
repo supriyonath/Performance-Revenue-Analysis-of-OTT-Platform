@@ -41,14 +41,6 @@ The Power BI report contains 6 pages:
 
 ---
 
-## 🔗 Key Project Links
-
-- 📂 **Presentation:** [View Presentation (Video)](https://youtu.be/PJIaH5BA70A)  
-- 📈 **Live Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWM1YTc1YjEtYWY1MC00MGM2LTliZmUtZTM2ZmI3NjM3MGZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-  
-
----
-
 ## 🛠️ Tools & Technologies
 
 - Power BI  
@@ -75,8 +67,11 @@ The Power BI report contains 6 pages:
 
 **Devices:** TV users watch the most; Jotstar aligns well with long-form content consumption.
 
+---
 
-## 📬 Feedback
+## 🔗 Key Project Links
 
-If you have any suggestions or feedback, feel free to open an issue or message me on [LinkedIn](https://www.linkedin.com).
+- 📂 **Presentation:** [View Presentation (Video)](https://youtu.be/PJIaH5BA70A)  
+- 📈 **Live Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWM1YTc1YjEtYWY1MC00MGM2LTliZmUtZTM2ZmI3NjM3MGZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- 📬 **LinkedIn Post:** [Go to LinkedIn](https://www.linkedin.com/posts/supriyonath_strategic-merger-insights-liocinema-jotstar-activity-7338235157721640962-cJBP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQcInUBTVM5KZB-wuDrzQKC_0S3VV6pswQ)
 
