@@ -23,8 +23,7 @@ This analysis would help guide pricing, content, and user strategy decisions pos
 
 
 ## 🖼️ Data Model View  
-![Data Model]([./assets/data_model.png](https://github.com/supriyonath/Performance-Revenue-Analysis-of-OTT-Platform/blob/main/Resource/Dashboard/Data_model_view.png?raw=true)
-
+![Data Model](https://github.com/supriyonath/Performance-Revenue-Analysis-of-OTT-Platform/blob/main/Resource/Dashboard/Data_model_view.png?raw=true_)
 ---
 
 ## 📊 Dashboard Preview
