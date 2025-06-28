@@ -70,11 +70,12 @@ The Power BI report contains 6 pages:
 
 **Activity:** Jotstar has 85% active users; LioCinema faces high inactivity, especially among free users.
 
-**Upgrade* Trends:* Jotstar sees VIP → Premium upgrades; LioCinema shows more Free → Basic shifts.
+**Upgrade** Trends:* Jotstar sees VIP → Premium upgrades; LioCinema shows more Free → Basic shifts.
 
 **Revenue:** Jotstar Premium is the top contributor; LioCinema revenue is Basic-driven.
 
 **Devices:** TV users watch the most; Jotstar aligns well with long-form content consumption.
+
 
 ---
 
