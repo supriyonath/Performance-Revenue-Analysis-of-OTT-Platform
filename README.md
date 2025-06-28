@@ -15,23 +15,14 @@ The analysis was performed using Power BI and is presented through **6 interacti
 ## ❗ Problem Statement
 
 Lio, India’s largest telecom provider (467M+ users), is preparing to merge its OTT service **LioCinema** with **Jotstar**, a premium content platform.  
-Management required a data-driven analysis to understand key areas such as:
-
-- Content performance  
-- Subscriber trends and demographics  
-- Inactivity and engagement  
-- Upgrade/downgrade patterns  
-- Revenue and monetization opportunities  
+LioCinema and Jotstar, two OTT platforms with different strengths and audiences, are preparing for a strategic merger. The challenge was to analyse user behavior, content performance, and revenue trends to support a data-driven post-merger strategy
 
 This analysis would help guide pricing, content, and user strategy decisions post-merger.
 
 ---
 
-## 🗂️ Data Model
 
-The data was structured into multiple tables including subscriber data, content metadata, and consumption logs for both platforms. The tables were cleaned, transformed, and related in Power BI to build the analysis model.
-
-### 🖼️ Data Model View  
+## 🖼️ Data Model View  
 ![Data Model](./assets/data_model.png)
 
 ---
