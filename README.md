@@ -43,7 +43,7 @@ The Power BI report contains 6 pages:
 
 ## 🔗 Key Project Links
 
-- 📂 **Presentation:** [View Presentation (PDF)](https://youtu.be/PJIaH5BA70A)  
+- 📂 **Presentation:** [View Presentation (Video)](https://youtu.be/PJIaH5BA70A)  
 - 📈 **Live Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWM1YTc1YjEtYWY1MC00MGM2LTliZmUtZTM2ZmI3NjM3MGZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
   
 
