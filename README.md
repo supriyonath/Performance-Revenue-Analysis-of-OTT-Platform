@@ -38,7 +38,7 @@ The Power BI report contains 6 pages:
 6. **Paid User & Revenue Analysis**
 
 ### 🖼️ Home Page  
-![Dashboard Home]([.Resource/Home_Page.jpg](https://github.com/supriyonath/Performance-Revenue-Analysis-of-OTT-Platform/blob/5dcb8503a6a49f081bae8353db0065fad58f99b9/Resource/Home_Page.jpg))
+![Dashboard Home](https://github.com/supriyonath/Performance-Revenue-Analysis-of-OTT-Platform/blob/main/Resource/Home_Page.jpg?raw=true)
 
 ---
 
