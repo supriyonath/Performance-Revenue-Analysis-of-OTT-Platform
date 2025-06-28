@@ -76,8 +76,6 @@ The Power BI report contains 6 pages:
 **Devices:** TV users watch the most; Jotstar aligns well with long-form content consumption.
 
 
----
-
 ## 📬 Feedback
 
 If you have any suggestions or feedback, feel free to open an issue or message me on [LinkedIn](https://www.linkedin.com).
