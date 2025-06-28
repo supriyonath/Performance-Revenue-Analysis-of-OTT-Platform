@@ -44,7 +44,9 @@ The Power BI report contains 6 pages:
 ## 🛠️ Tools & Technologies
 
 - Power BI  
-- DAX  
+- DAX
+- Excel
+- Power Point
 - Data Modeling  
 - Power Query  
 - Visual Storytelling
